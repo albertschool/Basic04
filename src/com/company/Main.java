@@ -176,14 +176,13 @@ public class Main {
         }
     }
 
-
     public static void main(String[] args) {
-//        seqQ1();
-//        seqQ2();
-//        seqQ3();
-//        P2Q4();
-//        P2Q5();
-//        P2Q6();
+        seqQ1();
+        seqQ2();
+        seqQ3();
+        P2Q4();
+        P2Q5();
+        P2Q6();
         P4Q1();
         P4Q2();
     }
